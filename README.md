@@ -6,4 +6,4 @@
 - Soy de Boca.
 - Me gusta mucho jugar al fútbol.
 
-! https://www.ole.com.ar/images/2025/07/10/c_S-4zVou_1580x750__1.jpg
+![La Bombonera](https://www.ole.com.ar/images/2025/07/10/c_S-4zVou_1580x750__1.jpg)
